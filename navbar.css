@@ -1,0 +1,47 @@
+.container ul{ 
+ display: flex;
+ gap: 50px;
+ list-style: none;
+ justify-content: center;
+ align-items: center;
+ border: 2px solid pink;
+ padding: 30px;
+ background-color: red;
+ color: green;
+
+}
+
+.container a{ 
+    text-decoration: none;
+    color: green;
+}
+
+.çontainer-two {
+
+    height: 500px;
+    width: 100% ;
+    border:3px solid greenyellow;
+    display: flex;
+    justify-content: center;
+    background-color: yellow;
+    align-items: center;
+    flex-direction: column;
+}
+.çontainer-two h1{
+    background-color:
+    blanchedalmond;
+    padding: 30px;
+    border-radius: 50%;
+}
+
+.container-two p{
+    background-color: aquamarine;
+    font-size: 30px;
+    font weight: 800px; ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+
+
